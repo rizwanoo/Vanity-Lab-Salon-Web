@@ -1,0 +1,6 @@
+{
+  "name": "Vanity Lab Salon & Spa Bahrain",
+  "description": "Vanity Lab Salon & Spa in Adliya, Manama, Bahrain. Luxury hair transformations, Nashi Argan therapy, couture nail art, facials, and wellness treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
